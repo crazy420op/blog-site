@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: the greatest man to ever live
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
